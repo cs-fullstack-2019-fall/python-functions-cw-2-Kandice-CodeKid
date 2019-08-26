@@ -14,7 +14,7 @@ def userResults(num1,num2):
     print(f'addition: {ask1} + {ask2} = {total1}')
     print(f'multiplication: {ask1} x {ask2} = {total2}')
     print(f'division: {ask1} / {ask2} = {total3}')
-
+# !! : "Create a function that will ask the user for a number" You should have on function that asks the user not two inputs
 ask1 = int(input("Enter a number "))
 ask2 = int(input("Enter another number "))
 askUser(ask1,ask2)
